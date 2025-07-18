@@ -1,13 +1,13 @@
 {
   "servers": [
     {
-      "url": "D1tZFOZkPzoUU1vkaG1vjOAdl8wKAS+UGZ/0MwSUNK9PK5ojbPaT825ITGWj1xPl"
-    },
-    {
       "url": "sU235Hh73S/ZNCRKK9jet51xz9DafjSaoNEN/K2VwomFbcJGFKST9L1YPVE47KCIXmKl5j3trtEbnxUnBEHs7w=="
     },
     {
       "url": "Zy/FyIycTwvCycTuuqIadQqO/OSvqf4j1M86AUpfaKMZMC+za4BvUK6h32jTFtFS"
+    },
+    {
+      "url": "BaSgcveIZHUTYnr15KCrMG3ejIBRE6QR1hEmzLNAoct+GMnz2YQHeUozIZTF29LYMIZUOlfeee+bnazUghVVCg=="
     }
   ],
   "github_fallbacks": [
